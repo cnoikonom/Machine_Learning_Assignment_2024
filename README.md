@@ -6,7 +6,7 @@ School of Informatics\
 Artificial Intelligence Department, 8th Semester\
 2024
 
-# Machine Learning Assignments
+## Machine Learning Assignments
 
 This repository contains three assignments as part of the **Machine Learning** course. These assignments are interactive and designed to help you understand fundamental machine learning concepts using Python and Jupyter Notebooks.
 
